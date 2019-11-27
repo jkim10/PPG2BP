@@ -1,0 +1,6 @@
+framework module Pods_PPG2BP {
+  umbrella header "Pods-PPG2BP-umbrella.h"
+
+  export *
+  module * { export * }
+}
